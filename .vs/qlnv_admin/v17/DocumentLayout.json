@@ -1,0 +1,668 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\tinhluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|c:\\users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\themnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\ungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\ungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\bangcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\ungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\ungluong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\trogiup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\tangca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\phucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\nvphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\nvphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\nvphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\nvphucap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\hdld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\hdld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\hdld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\hdld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\baohiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\kyluat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\khenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\chucvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\bophan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\ketnoi_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\ketnoi_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\ungluong.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\ungluong.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{935781AE-4C13-4954-86CE-26513170B07B}|qlnv_admin\\qlnv_admin.csproj|solutionrelative:qlnv_admin\\designer\\quanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UNGLUONG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\UNGLUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\UNGLUONG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:39.616Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NHANVIEN.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NHANVIEN.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\NHANVIEN.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAHwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T17:00:52.9Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NHANVIEN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NHANVIEN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\NHANVIEN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NHANVIEN.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\NHANVIEN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:33.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "themnv.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\themnv.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\themnv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T18:06:26.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "themnv.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\themnv.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\themnv.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\themnv.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAACoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-11T18:14:53.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\login.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T09:10:54.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\login.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\login.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\login.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADgv2kAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T17:38:44.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KYLUAT.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KYLUAT.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\KYLUAT.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KYLUAT.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\KYLUAT.cs",
+              "ViewState": "AQIAAC8BAAAAAAAAAAAwwOgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T07:01:30.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TANGCA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TANGCA.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\TANGCA.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TANGCA.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\TANGCA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:00:20.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TINHLUONG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TINHLUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\TINHLUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TINHLUONG.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\TINHLUONG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:36.249Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TINHLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TINHLUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\TINHLUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TINHLUONG.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\TINHLUONG.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T19:56:36.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BANGCONG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BANGCONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BANGCONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BANGCONG.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\BANGCONG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:24.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "THONGKE.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\THONGKE.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\THONGKE.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\THONGKE.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\THONGKE.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:01:49.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\Program.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\Program.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\Program.cs",
+              "RelativeToolTip": "qlnv_admin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T10:00:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TROGIUP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TROGIUP.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\TROGIUP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TROGIUP.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\TROGIUP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:38.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UNGLUONG.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\UNGLUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\UNGLUONG.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAwwOsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T17:53:31.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TANGCA.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TANGCA.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\TANGCA.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\TANGCA.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\TANGCA.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAwwOIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T16:32:56.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BANGCONG.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BANGCONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BANGCONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BANGCONG.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\BANGCONG.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAwwBYBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T09:50:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "THONGKE.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\THONGKE.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\THONGKE.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\THONGKE.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\THONGKE.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:48:50.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PHUCAP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHUCAP.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\PHUCAP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHUCAP.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\PHUCAP.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAwwOAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:37:11.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PHUCAP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHUCAP.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\PHUCAP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHUCAP.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\PHUCAP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T10:57:30.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NVPHUCAP.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NVPHUCAP.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\NVPHUCAP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NVPHUCAP.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\NVPHUCAP.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAwwOoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:35:58.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NVPHUCAP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NVPHUCAP.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\NVPHUCAP.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\NVPHUCAP.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\NVPHUCAP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:02:33.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HDLD.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HDLD.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\HDLD.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HDLD.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\HDLD.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAwwPoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:34:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BAOHIEM.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BAOHIEM.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BAOHIEM.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BAOHIEM.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\BAOHIEM.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAwwPYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-14T07:30:14.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BAOHIEM.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BAOHIEM.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BAOHIEM.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BAOHIEM.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\BAOHIEM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:04:32.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KHENTHUONG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KHENTHUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\KHENTHUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KHENTHUONG.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\KHENTHUONG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:31.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HDLD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HDLD.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\HDLD.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HDLD.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\HDLD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:08:52.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KYLUAT.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KYLUAT.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\KYLUAT.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KYLUAT.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\KYLUAT.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:30.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KHENTHUONG.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KHENTHUONG.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\KHENTHUONG.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\KHENTHUONG.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\KHENTHUONG.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAwwO0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:25:13.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CHUCVU.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\CHUCVU.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\CHUCVU.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\CHUCVU.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\CHUCVU.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAwwMkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T17:38:55.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CHUCVU.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\CHUCVU.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\CHUCVU.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\CHUCVU.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\CHUCVU.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:27.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BOPHAN.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BOPHAN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BOPHAN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BOPHAN.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\BOPHAN.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAwwLoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T16:51:26.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BOPHAN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BOPHAN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\BOPHAN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\BOPHAN.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\BOPHAN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:27.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PHONGBAN.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHONGBAN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\PHONGBAN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHONGBAN.cs",
+              "RelativeToolTip": "qlnv_admin\\designer\\PHONGBAN.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAwwMoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:14:15.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PHONGBAN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHONGBAN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\PHONGBAN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\PHONGBAN.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\PHONGBAN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-24T11:01:57.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HomeForm.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\HomeForm.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\HomeForm.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T09:40:32.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ketnoi_sql.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\ketnoi_sql.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\ketnoi_sql.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\ketnoi_sql.cs",
+              "RelativeToolTip": "qlnv_admin\\ketnoi_sql.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T03:10:06.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UNGLUONG.resx",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.resx",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\UNGLUONG.resx",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\UNGLUONG.resx",
+              "RelativeToolTip": "qlnv_admin\\designer\\UNGLUONG.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2023-12-16T09:54:39.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "delete.cs",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\delete.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\delete.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\delete.cs",
+              "RelativeToolTip": "qlnv_admin\\delete.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T07:48:45.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "QUANLYTAIKHOAN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\QUANLYTAIKHOAN.cs",
+              "RelativeDocumentMoniker": "qlnv_admin\\designer\\QUANLYTAIKHOAN.cs",
+              "ToolTip": "C:\\Users\\84394\\source\\repos\\qlnv_admin\\qlnv_admin\\designer\\QUANLYTAIKHOAN.cs [Design]",
+              "RelativeToolTip": "qlnv_admin\\designer\\QUANLYTAIKHOAN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T16:57:34.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

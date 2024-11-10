@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1. Giới thiệu chức năng của ứng dụng 
+        Ứng dụng quản lý nhân sự là một công cụ mạnh mẽ giúp quản lý thông tin của các nhân viên trong tổ chức. Với ứng dụng này, bạn có thể thêm, sửa đổi, xóa 
+        và tìm kiếm thông tin của nhân viên, bao gồm cả thông tin cá nhân, liên hệ, vị trí và bộ phận làm việc,  cũng như lịch sử làm việc của nhân viên. 
+        Bên cạnh đó,  ứng dụng cũng cung cấp các tính năng như tính lương, tính phụ cấp, quản lý bảo hiểm và quản lý chấm công.  Với các chức năng đa dạng này, 
+        ứng dụng quản lý nhân sự sẽ giúp bạn tiết kiệm thời gian và nâng cao hiệu quả làm việc của tổ chức."
+
+2. Khái quát các danh mục trong ứng dụng
+      - Hệ thống:
+             • Quản lý tài khoản: chức năng này chỉ có phân quyền tài khoản quản lý mới được sử dụng, các tài khoản nhân viên không thể sử dụng chức năng này.
+             • Đăng xuất: Bạn có thể đăng xuất tài khoản hiện tại để chuyển sang một tài khoản khác.
+
+      - Quản lý:
+             • Nhân viên: quản lý thông tin các cán bộ, công nhân viên trong công ty.
+             • Bộ phận: quản lý danh sách các bộ phận trong công ty.
+             • Chức vụ: quản lý danh sách các chức vụ trong công ty.
+             • Lương:                 
+                      * Tính lương cho nhân viên theo số ngày chấm công và các mã khen thưởng , kỷ luật nếu có.
+             • Khen thưởng - kỷ luật: quản lý danh sách các nhân viên được khen thưởng hoặc bị kỷ luật.
+             • Hợp đồng lao động: quản lý danh sách hợp đồng lao động của các nhân viên trong công ty.
+             • Bảo hiểm: quản lý bảo hiểm của các nhân viên trong công ty.
+
+     - Thống kê:
+             • Số lượng nhân viên của từng bộ phận.
+             •Danh sách nhân viên trên 30 tuổi.
+             • Danh sách nhân viên dưới 30 tuổi.
+             •Danh sách nhân viên theo tiền phụ cấp.
+             • Số lượng nhân viên theo giới tính.
+             •Số lượng nhân viên theo từng trình độ học vấn.
+         
+             
+3. Chi tiết
+        - Mỗi chức năng khi được mở chức năng lên, đều có các thao tác thêm, chỉnh sửa, xóa, tìm kiếm, làm mới, và in danh sách ra excel.
+        - Thao tác:
+                • Thêm: Nhập dữ liệu cho các mục theo quy định, rồi nhấp "Thêm".
+                • Xóa: Chọn dòng dữ liệu muốn xóa trong bảng, xác định dữ liệu đó chắc chắn muốn xóa. Sau đó nhấp "Xóa".
+                • Sửa: Chọn dong dữ liệu muốn sửa trong bảng, nhập dữ liệu mới vào các trường cần sửa. Sau đó nhấp "Sửa".
+                • Excel: Nếu trong bảng có dữ liệu thì chỉ cần chọn button excel và làm theo các bước để lưu fie. 
+                • Tìm kiếm: Nhập thông tin vào ô nhập dữ liệu. Sau đó nhấp "Tìm kiếm".
+                • Làm mới: Khi bạn nhấp nút này, hệ thống sẽ tải lại trang, quay về trạng thái ban đầu và không ảnh hưởng đến dữ liệu của hệ thống.
+                • In: Xuất các cột dữ liệu ra một file excel với danh sách các dữ liệu đúng với hệ thống.
+                • Hiển thị lại dữ liệu : Xuất lại dữ liệu vào bảng lại từ đầu.
+
+
+4. MỘT SỐ CÂU HỎI THƯỜNG GẶP
+ 4.1. Làm thế nào để chỉnh sửa được thông tin tài khoản?
+    Trước hết, tài khoản của bạn phải là quyền tài khoản quản lý thì mới có thể sử dụng và chỉnh sửa thông tin bên trong chức năng này
+     
+    Muốn chỉnh sửa thông tin tài khoản, bạn làm theo các bước sau:
+       • Chọn vào dòng tài khoản bạn muốn chỉnh sửa.
+       • Khi đó thông tin về tài khoản sẽ hiện ở các ô nhập dữ liệu, bạn có thể chỉnh sửa lại những thông tin đó.
+       • Sau đó, bạn chọn nút "Sửa".
+
+ 4.2. Làm thế nào để tìm kiếm thông tin một nhân viên cụ thể ?
+    Mỗi nhân viên đều có một mã nhân viên riêng biệt, nên việc tìm kiếm thông tin một nhân viên cụ thể rất đơn giản
+        • Nhập thông tin mã nhân viên vào ô mã nhân viên ( những ô còn lại có thể nhập hoặc không )
+        • Chọn nút "Tìm kiếm". Hệ thống sẽ kiểm tra thông tin, nếu có sẽ đưa ra thông tin của nhân viên đó, nếu không sẽ báo không tìm thấy.
+
+ 4.3. Nút " Mới" hoạt động như nào ?
+    Nút này có nhiệm vụ tải lại trang dữ liệu này và làm trống các ô dữ liệu để bạn có thể nhập dễ dàng mà không cần xóa đi nhập lại.
+    
+    Mặc dù tải lại trang về trạng thái ban đầu nhưng không ảnh hưởng đến dữ liệu mà bạn đã thao tác trước đó.
+
+5. Liên hệ hỗ trợ
+    Mọi thắc mắc vui lòng liên hệ:
+          • Số điện thoại: 0966771508.
+          • Email: binhking@gmail.com.</value>
+  </data>
+</root>

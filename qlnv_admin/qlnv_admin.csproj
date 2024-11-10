@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{935781AE-4C13-4954-86CE-26513170B07B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>qlnv_admin</RootNamespace>
+    <AssemblyName>qlnv_admin</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=3.0.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.3.0.0\lib\net40\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="DocumentFormat.OpenXml.Framework, Version=3.0.0.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.Framework.3.0.0\lib\net46\DocumentFormat.OpenXml.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=7.0.4.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.7.0.4\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.1.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.Interfaces.6.1.1\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.1.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>..\packages\EPPlus.System.Drawing.6.1.1\lib\net462\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IO.RecyclableMemoryStream.1.4.1\lib\net46\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="microsoft.office.interop.excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\Downloads\microsoft.office.interop.excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MPSTI.PlenoSoft.Core.Office.OpenXml, Version=1.0.0.118, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MPSTI.PlenoSoft.Core.Office.OpenXml.Net4.2.0.0.1\lib\net46\MPSTI.PlenoSoft.Core.Office.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="designer\BANGCONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\BANGCONG.Designer.cs">
+      <DependentUpon>BANGCONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\BAOHIEM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\BAOHIEM.Designer.cs">
+      <DependentUpon>BAOHIEM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\BOPHAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\BOPHAN.Designer.cs">
+      <DependentUpon>BOPHAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\CHUCVU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\CHUCVU.Designer.cs">
+      <DependentUpon>CHUCVU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\HomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\HomeForm.Designer.cs">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\HDLD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\HDLD.Designer.cs">
+      <DependentUpon>HDLD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ketnoi_sql.cs" />
+    <Compile Include="designer\KHENTHUONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\KHENTHUONG.Designer.cs">
+      <DependentUpon>KHENTHUONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\KYLUAT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\KYLUAT.Designer.cs">
+      <DependentUpon>KYLUAT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\NHANVIEN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\NHANVIEN.Designer.cs">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\NVPHUCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\NVPHUCAP.Designer.cs">
+      <DependentUpon>NVPHUCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\PHONGBAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\PHONGBAN.Designer.cs">
+      <DependentUpon>PHONGBAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\PHUCAP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\PHUCAP.Designer.cs">
+      <DependentUpon>PHUCAP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyNhanVienv2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyNhanVienv2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyNhanVienv2DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyNhanVienv2DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyNhanVienv2DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyNhanVienv2DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="designer\QUANLYTAIKHOAN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\QUANLYTAIKHOAN.Designer.cs">
+      <DependentUpon>QUANLYTAIKHOAN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\TANGCA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\TANGCA.Designer.cs">
+      <DependentUpon>TANGCA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\THONGKE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\THONGKE.Designer.cs">
+      <DependentUpon>THONGKE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\TINHLUONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\TINHLUONG.Designer.cs">
+      <DependentUpon>TINHLUONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\TROGIUP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\TROGIUP.Designer.cs">
+      <DependentUpon>TROGIUP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\UNGLUONG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\UNGLUONG.Designer.cs">
+      <DependentUpon>UNGLUONG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="designer\themnv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="designer\themnv.Designer.cs">
+      <DependentUpon>themnv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="delete.cs" />
+    <EmbeddedResource Include="designer\BANGCONG.resx">
+      <DependentUpon>BANGCONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\BAOHIEM.resx">
+      <DependentUpon>BAOHIEM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\BOPHAN.resx">
+      <DependentUpon>BOPHAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\CHUCVU.resx">
+      <DependentUpon>CHUCVU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\HomeForm.resx">
+      <DependentUpon>HomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\HDLD.resx">
+      <DependentUpon>HDLD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\KHENTHUONG.resx">
+      <DependentUpon>KHENTHUONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\KYLUAT.resx">
+      <DependentUpon>KYLUAT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\NHANVIEN.resx">
+      <DependentUpon>NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\NVPHUCAP.resx">
+      <DependentUpon>NVPHUCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\PHONGBAN.resx">
+      <DependentUpon>PHONGBAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\PHUCAP.resx">
+      <DependentUpon>PHUCAP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="designer\QUANLYTAIKHOAN.resx">
+      <DependentUpon>QUANLYTAIKHOAN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\TANGCA.resx">
+      <DependentUpon>TANGCA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\THONGKE.resx">
+      <DependentUpon>THONGKE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\TINHLUONG.resx">
+      <DependentUpon>TINHLUONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\TROGIUP.resx">
+      <DependentUpon>TROGIUP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\UNGLUONG.resx">
+      <DependentUpon>UNGLUONG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="designer\themnv.resx">
+      <DependentUpon>themnv.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="QuanLyNhanVienv2DataSet1.xsc">
+      <DependentUpon>QuanLyNhanVienv2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyNhanVienv2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet1.xss">
+      <DependentUpon>QuanLyNhanVienv2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet11.xsc">
+      <DependentUpon>QuanLyNhanVienv2DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyNhanVienv2DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet11.xss">
+      <DependentUpon>QuanLyNhanVienv2DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet2.xsc">
+      <DependentUpon>QuanLyNhanVienv2DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="QuanLyNhanVienv2DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QuanLyNhanVienv2DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\phan-mem-quan-ly-nhan-su.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quan-ly-rui-ro-trong-quan-tri-nhan-su-scaled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hieu-dung-hoach-dinh-nguon-nhan-luc-la-gi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hello-2488_256.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons8-Windows-8-Users-Administrator-2.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steve-Zondicons-Lock-Closed.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom-Icon-Design-Pretty-Office-7-Save.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Apps-system-software-update.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multivitamin-Multiminimal-Trash-empty.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fasticon-Essential-Toolbar-Refresh.16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fasticon-Essential-Toolbar-Refresh.161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dakirby309-Simply-Styled-Microsoft-Excel-2013.16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
